@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="54c5c966-618c-47c9-8e94-f9fb0dcec959" name="ATS_New">
+        <fileTransfer rootFolder="/home/ylethingoc/ats_repos/lib/perl/QATEST/C20_EO" accessType="SFTP" host="10.250.188.90" port="22" sshConfigId="11b71f5f-4dc5-4cbe-8479-0fef5fef7c9a" sshConfig="ylethingoc@10.250.188.90:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
